@@ -112,10 +112,3 @@ Imbalance Handling: Use SMOTE if dealing with highly imbalanced churn data.
 Deployment: Deploy the Streamlit app to Streamlit Community Cloud or AWS/GCP.
 
 ---
-
-### 💡 Tips Tambahan untuk README Ini:
-
-1. **Ganti Placeholder:** Jangan lupa ganti `[Nama Kamu]` dan link LinkedIn/Portofolio di bagian paling bawah.
-2. **Screenshot Dashboard:** Bagian `📊 Dashboard Preview` itu sangat penting. Screenshot dashboard Streamlit yang lagi jalan, lalu *drag and drop* gambarnya ke file `README.md` ini di GitHub. Ini bikin recruiter langsung melihat *output* visual kamu tanpa harus nge-*run* kodenya.
-3. **Badges (Lencana):** Itu deretan logo warna-warni di atas (Python, Pandas, dll) bikin repo kelihatan sangat profesional dan *up-to-date*.
-4. **Disclaimer Dataset:** Saya masukkan catatan bahwa ini data sintetis. Ini langkah yang sangat cerdas dan menunjukkan *data integrity*. Recruiter suka kandidat yang jujur soal limitasi data.
